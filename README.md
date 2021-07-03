@@ -1,4 +1,4 @@
-# 🍇 Market Kurly Clone Project
+# 🍆 Market Kurly Clone Project 🍇
 
 대한민국의 신선식품 전문 온라인 쇼핑몰 [마켓컬리](https://www.kurly.com/shop/main/index.php)를 Clone한 프로젝트입니다. 
 
@@ -6,13 +6,15 @@
 
 <img src="/Kurlabo-Preview.gif" width="800" height="480"/>
 
-## Getting Start!
+## 🏈 Getting Start!
 
 ```markdown
 $ git clone "https://github.com/Kurlabo/frontend.git
 $ npm install
 $ npm run start
 ```
+
+<br>
 
 ## 🗓 프로젝트 기간
 
@@ -35,8 +37,6 @@ $ npm run start
 
 ## 🚀 서비스 기능
 
-<br>
-
 ### 1. 메인 Header
 
 - 전체 카테고리 메뉴 드롭다운 UI
@@ -45,8 +45,6 @@ $ npm run start
 - Session Storage를 이용하여 주소 set/get하여 배송가능한 주소 렌더링
 - cookie를 이용하여 토큰 값 유지하면서 회원정보 GET
 
-<br>
-
 ### 2. 메인 페이지
 
 - 메인배너 Infinity Carousel 구현
@@ -54,8 +52,6 @@ $ npm run start
 - 추천하는 상품 클릭시 각 상품별 세부정보 페이지로 이동
 - 인스타그램 고객 후기 이미지 및 인스타그램 URL이동 구현
 - 사이드 메뉴(최근 조회 상품) 스크롤링 이벤트
-
-<br>
 
 ### 3. 상품 리스트
 
@@ -67,8 +63,6 @@ $ npm run start
 - Original 마켓컬리 페이지에서 장바구니 모달창의 외부영역 클릭시 모달창이 닫히지 않는 접근성 issue 개선
 - 장바구니 담기 기능
 
-<br>
-
 ### 4. 장바구니페이지
 
 - 각 상품 보관 타입별(냉장, 냉동, 상온) 상품 구분 및 렌더링
@@ -76,15 +70,11 @@ $ npm run start
 - 주소검색 daum API 를 통한 주소 검색후 주소 정보 표시
 - 장바구니 내의 선택된 상품에 따른 결제금액 변동 및 결제하기 버튼 활성화
 
-<br>
-
 ### 5. 주문서
 
 - 주문상품, 회원정보, 결제 정보에 대한 상태관리
 - 주문 상품에 대한 가격, 수량, 이미지 렌더링
 - 배송지 변경 모달창 구현
-
-<br>
 
 ### 6. 상품 상세 페이지
 
@@ -98,16 +88,12 @@ $ npm run start
 - count 수 1미만일 경우 알림 모달창 구현
 - 늘 사는 것 추가하기 기능 및 결과 모달창 구현
 
-<br>
-
 ### 7. 고객센터 페이지
 
 - navigation의 선택된 탭에 따른 내용 렌더링
 - 공지사항의 글 클릭시 해당 글의 페이지로 이동 및 렌더링
 - 자주하는 질문의 카테고리 선택 시 해당 카테고리의 글 목록 렌더링
 - 1:1문의의 글쓰기 버튼 클릭 시 글쓰기 페이지로 이동
-
-<br>
 
 ### 8. 마이페이지(마이컬리)
 
@@ -124,25 +110,27 @@ $ npm run start
   - [최종발표](https://www.canva.com/design/DAEXN4RB1Y4/1uDGkPk6x8qQH_xh8iSK0A/view?utm_content=DAEXN4RB1Y4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - [프로젝트 영상 YouTube 보러가기](https://github.com/Kurlabo/frontend/blob/develop/CONTRIBUTING.md)
 
+<br>
+
 ## 🧩 구성원 ✨
 
 ### 🧑‍💻 Front-end
 
 <table>
 <tr>
-<td>
+<td align="center">
 <a href="https://github.com/nr-baek"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/52344355?v=4"></a>
 </td>
-<td>
+<td align="center">
 <a href=https://github.com/FE-sophie"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4"></a>
 </td>
-<td>
+<td align="center">
 <a href="https://github.com/cjy0019"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4"></a>
 </td>
-<td>
+<td align="center">
 <a href="https://github.com/FE-Lex-Kim"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4"></a>
 </td>
-<td>
+<td align="center">
 <a href="https://github.com/parksaneon"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4"></a>
 </td>
 
@@ -156,46 +144,28 @@ $ npm run start
 </tr>
 </table>
 
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/52344355?v=4">
-
-[백나라](https://github.com/nr-baek)
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4">
-
-[정세영](https://github.com/FE-sophie) <br>
-
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4">
-
-[조재연](https://github.com/cjy0019) <br>
-
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4">
-
-[김어진](https://github.com/FE-Lex-Kim) <br>
-
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4">
-
-[박상언](https://github.com/parksaneon) <br>
-
 <br>
 
 ### 🧑‍💻 Back-End
-<br>
 
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46559549?s=64&v=4">
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/LimNoah"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/46559549?s=64&v=4"></a>
+</td>
+<td align="center">
+<a href=https://github.com/theVelopr"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4"></a>
+</td>
+<td align="center">
+<a href="https://github.com/Yus2on"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4"></a>
+</td>
 
-[임정우](https://github.com/LimNoah) <br>
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4">
-
-[양동경](https://github.com/theVelopr) <br>
-
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4">
-
-[최유선](https://github.com/Yus2on) <br>
+</tr>
+<tr>
+<td align="center"> <a href="https://github.com/LimNoah">임정우</a> </td>
+<td align="center"> <a href="https://github.com/theVelopr">양동경</a> </td>
+<td align="center"> <a href="https://github.com/Yus2on">최유선</a> </td>
+</tr>
+</table>
 
 <br>
