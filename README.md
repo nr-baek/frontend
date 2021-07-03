@@ -1,18 +1,24 @@
-# 🍆 Market Kurly Clone Project 🍇
+# 🍇 Market Kurly Clone Project
 
 대한민국의 신선식품 전문 온라인 쇼핑몰 [마켓컬리](https://www.kurly.com/shop/main/index.php)를 Clone한 프로젝트입니다. 
-<br>
 
 👇 Project Preview
 
 <img src="/Kurlabo-Preview.gif" width="800" height="480"/>
+
+## Getting Start!
+
+```markdown
+$ git clone "https://github.com/Kurlabo/frontend.git
+$ npm install
+$ npm run start
+```
 
 ## 🗓 프로젝트 기간
 
 2021.01.25 - 2021.02.26 (5주)
 
 <br>
-
 
 ## 🎒 기술 스택
 
@@ -121,36 +127,58 @@
 ## 🧩 구성원 ✨
 
 ### 🧑‍💻 Front-end
-<br>
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/nr-baek"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/52344355?v=4"></a>
+</td>
+<td>
+<a href=https://github.com/FE-sophie"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4"></a>
+</td>
+<td>
+<a href="https://github.com/cjy0019"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4"></a>
+</td>
+<td>
+<a href="https://github.com/FE-Lex-Kim"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4"></a>
+</td>
+<td>
+<a href="https://github.com/parksaneon"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4"></a>
+</td>
+
+</tr>
+<tr>
+<td align="center"> <a href="https://github.com/nr-baek">백나라</a> </td>
+<td align="center"> <a href="https://github.com/FE-sophie">정세영</a> </td>
+<td align="center"> <a href="https://github.com/cjy0019">조재연</a> </td>
+<td align="center"> <a href="https://github.com/FE-Lex-Kim">김어진</a> </td>
+<td align="center"> <a href="https://github.com/parksaneon">박상언</a> </td>
+</tr>
+</table>
 
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/52344355?v=4">
 
 [백나라](https://github.com/nr-baek)
 
-<br>
-
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4">
 
-[정세영](https://github.com/FE-sophie)
+[정세영](https://github.com/FE-sophie) <br>
 
-<br>
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4">
 
-[조재연](https://github.com/cjy0019)
+[조재연](https://github.com/cjy0019) <br>
 
-<br>
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4">
 
-[김어진](https://github.com/FE-Lex-Kim)
+[김어진](https://github.com/FE-Lex-Kim) <br>
 
-<br>
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4">
 
-[박상언](https://github.com/parksaneon)
+[박상언](https://github.com/parksaneon) <br>
 
 <br>
 
@@ -159,16 +187,15 @@
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46559549?s=64&v=4">
 
-[임정우](https://github.com/LimNoah)
-
+[임정우](https://github.com/LimNoah) <br>
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4">
 
-[양동경](https://github.com/theVelopr)
+[양동경](https://github.com/theVelopr) <br>
 
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4">
 
-[최유선](https://github.com/Yus2on)
+[최유선](https://github.com/Yus2on) <br>
 
 <br>
