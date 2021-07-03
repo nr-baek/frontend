@@ -1,4 +1,4 @@
-#  Market Kurly Clone Project
+# 🍇 Market Kurly Clone Project
 
 <img src="/Kurlabo-Preview.gif" width="800" height="480"/>
 
@@ -100,6 +100,15 @@
 
 <br>
 
+## 📌 기타
+
+- [컨벤션](https://github.com/Kurlabo/frontend/blob/develop/CONTRIBUTING.md)
+- [와이어프레임](https://www.figma.com/file/9ZA0PoPDP14XQMiI8H1UBC/%EC%BB%AC%EB%9D%BC%EB%B3%B42)
+- PPT
+  - [기획](https://slides.com/lexkim/title-texttitle-text/)
+  - [최종발표](https://www.canva.com/design/DAEXN4RB1Y4/1uDGkPk6x8qQH_xh8iSK0A/view?utm_content=DAEXN4RB1Y4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [프로젝트 영상 YouTube 보러가기](https://github.com/Kurlabo/frontend/blob/develop/CONTRIBUTING.md)
+
 ## 🧩 구성원 ✨
 
 ### 🧑‍💻 Front-end
@@ -107,23 +116,23 @@
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4">
 
-[박상언](https://github.com/parksaneon) </br> Kurlabo Front-End
+[박상언](https://github.com/parksaneon)
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/52344355?v=4">
 
-[백나라](https://github.com/nr-baek) </br> Kurlabo Front-End
+[백나라](https://github.com/nr-baek)
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4">
 
-[정세영](https://github.com/FE-sophie) </br> Kurlabo Front-End
+[정세영](https://github.com/FE-sophie)
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4">
 
-[조재연](https://github.com/cjy0019) </br> Kurlabo Front-End
+[조재연](https://github.com/cjy0019)
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4">
 
-[김어진](https://github.com/FE-Lex-Kim) </br> Kurlabo Front-End
+[김어진](https://github.com/FE-Lex-Kim)
 <br>
 <br>
 
@@ -132,12 +141,12 @@
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46559549?s=64&v=4">
 
-[임정우](https://github.com/LimNoah) </br> Kurlabo Back-End
+[임정우](https://github.com/LimNoah)
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4">
 
-[양동경](https://github.com/theVelopr) </br> Kurlabo Back-End
+[양동경](https://github.com/theVelopr)
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4">
 
-[최유선](https://github.com/Yus2on) </br> Kurlabo Back-End
+[최유선](https://github.com/Yus2on)
