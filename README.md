@@ -150,3 +150,31 @@
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4">
 
 [최유선](https://github.com/Yus2on)
+
+<br>
+
+<table>
+<tr>
+<td>FrontEnd</td>
+</tr>
+  <tr>
+    <td align="center"><a href="https://github.com/parksaneon"><img src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4" width="100px;" alt=""/><br /><sub><b>박상언</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/nr-baek"><img src="https://avatars.githubusercontent.com/u/52344355?v=4" width="100px;" alt=""/><br /><sub><b>백나라</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/FE-sophie"><img src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4" width="100px;" alt=""/><br /><sub><b>정세영</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/cjy0019"><img src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4" width="100px;" alt=""/><br /><sub><b>조재연</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/FE-Lex-Kim"><img src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4" width="100px;" alt=""/><br /><sub><b>김어진</b></sub></a><br /></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>BackEnd</td>
+</tr>
+  <tr>
+    <td align="center"><a href="https://github.com/LimNoah"><img src="https://avatars.githubusercontent.com/u/46559549?s=64&v=4" width="100px;" alt=""/><br /><sub><b>임정우</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/theVelopr"><img src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4" width="100px;" alt=""/><br /><sub><b>양동경</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Yus2on"><img src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4" width="100px;" alt=""/><br /><sub><b>최유선</b></sub></a><br /></td>
+  </tr>
+</table>
