@@ -1,6 +1,9 @@
 # 🍆 Market Kurly Clone Project 🍇
 
 대한민국의 신선식품 전문 온라인 쇼핑몰 [마켓컬리](https://www.kurly.com/shop/main/index.php)를 Clone한 프로젝트입니다. 
+<br>
+
+👇 Project Preview
 
 <img src="/Kurlabo-Preview.gif" width="800" height="480"/>
 
@@ -158,13 +161,11 @@
 
 [임정우](https://github.com/LimNoah)
 
-<br>
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4">
 
 [양동경](https://github.com/theVelopr)
 
-<br>
 
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4">
 
