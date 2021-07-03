@@ -6,7 +6,7 @@
 
 <img src="/Kurlabo-Preview.gif" width="800" height="480"/>
 
-[프로젝트 영상 보기](https://youtu.be/S_-QvPlp6IE)
+[프로젝트 영상 보기](https://youtube.com/playlist?list=PLw4AQO2Dk2sSHVtuFktOa74IJas9GbkFn)
 
 ## 🏈 Getting Start!
 
@@ -110,7 +110,7 @@ $ npm run start
 - PPT
   - [기획](https://slides.com/lexkim/title-texttitle-text/)
   - [최종발표](https://www.canva.com/design/DAEXN4RB1Y4/1uDGkPk6x8qQH_xh8iSK0A/view?utm_content=DAEXN4RB1Y4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [프로젝트 영상 YouTube 보러가기](https://youtu.be/S_-QvPlp6IE)
+- [프로젝트 영상 YouTube 보러가기](https://youtube.com/playlist?list=PLw4AQO2Dk2sSHVtuFktOa74IJas9GbkFn)
 
 <br>
 
