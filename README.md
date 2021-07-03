@@ -119,19 +119,19 @@ $ npm run start
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/nr-baek"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/52344355?v=4"></a>
+<a href="https://github.com/nr-baek"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/52344355?v=4"></a>
 </td>
 <td align="center">
-<a href=https://github.com/FE-sophie"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4"></a>
+<a href=https://github.com/FE-sophie"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/76701139?s=64&v=4"></a>
 </td>
 <td align="center">
-<a href="https://github.com/cjy0019"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4"></a>
+<a href="https://github.com/cjy0019"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/33951916?s=64&v=4"></a>
 </td>
 <td align="center">
-<a href="https://github.com/FE-Lex-Kim"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4"></a>
+<a href="https://github.com/FE-Lex-Kim"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/65955988?s=64&v=4"></a>
 </td>
 <td align="center">
-<a href="https://github.com/parksaneon"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4"></a>
+<a href="https://github.com/parksaneon"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/47975991?s=64&v=4"></a>
 </td>
 
 </tr>
@@ -151,13 +151,13 @@ $ npm run start
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/LimNoah"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/46559549?s=64&v=4"></a>
+<a href="https://github.com/LimNoah"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/46559549?s=64&v=4"></a>
 </td>
 <td align="center">
-<a href=https://github.com/theVelopr"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4"></a>
+<a href=https://github.com/theVelopr"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/68624184?s=64&v=4"></a>
 </td>
 <td align="center">
-<a href="https://github.com/Yus2on"><img align="left" width="50" height="50" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4"></a>
+<a href="https://github.com/Yus2on"><img align="center" width="50" height="50" src="https://avatars.githubusercontent.com/u/46306263?s=64&v=4"></a>
 </td>
 
 </tr>
